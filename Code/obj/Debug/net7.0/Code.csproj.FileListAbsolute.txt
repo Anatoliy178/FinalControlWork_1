@@ -1,0 +1,15 @@
+D:\VC_Projects\FinalControlWork_1\Code\bin\Debug\net7.0\Code.exe
+D:\VC_Projects\FinalControlWork_1\Code\bin\Debug\net7.0\Code.deps.json
+D:\VC_Projects\FinalControlWork_1\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+D:\VC_Projects\FinalControlWork_1\Code\bin\Debug\net7.0\Code.dll
+D:\VC_Projects\FinalControlWork_1\Code\bin\Debug\net7.0\Code.pdb
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.csproj.AssemblyReference.cache
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.dll
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\refint\Code.dll
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.pdb
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+D:\VC_Projects\FinalControlWork_1\Code\obj\Debug\net7.0\ref\Code.dll
