@@ -43,5 +43,4 @@ void printA(string[] stringArray)
     Console.Write($"]");
 }
 
-// array(stringArray);
 printA(symbol(stringArray));
